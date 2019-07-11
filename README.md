@@ -5,3 +5,5 @@ The "naive" assumption of Naive Bayes (that the features are conditionally indep
 The normalization constant (the denominator) can be ignored since it's the same for all classes.
 The prior probability is much less relevant once you have a lot of features.
 
+data source : https://www.kaggle.com/bingww/winequality#winequality-white.csv
+
